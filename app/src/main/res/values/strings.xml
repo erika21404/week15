@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week15</string>
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+    <string name="button1">Female</string>
+    <string name="button2">Male</string>
+</resources>
